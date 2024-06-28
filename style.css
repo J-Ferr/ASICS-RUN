@@ -1,0 +1,62 @@
+html{
+    background-color: whitesmoke;
+    color: black;
+    position: relative;
+    justify-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+   
+}
+
+.head {
+    background-color: #252a6c;
+}
+
+
+h1, h2, h3, p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 1em;
+    
+}
+
+
+.header, .mission {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+img {
+    width: 35%;
+    height: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.kayano14, .gel-1130, .gel-nyc {
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+}
+
+footer {
+    color: white;
+    padding: 1em;
+    background-color: #252a6c;
+    font-weight: bold;
+
+}
